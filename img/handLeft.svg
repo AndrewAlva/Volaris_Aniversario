@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100%" height="100%" viewBox="0 0 960 600" style="enable-background:new 0 0 960 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#0F696D;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#19BBBF;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+
+	.tiempo1 path{
+		animation-duration:9s;
+		-webkit-animation-duration:9s;
+		-moz-animation-duration:9s;
+		-o-animation-duration:9s;
+	}
+
+	.tiempo2 path{
+		animation-duration:11.5s;
+		-webkit-animation-duration:11.5s;
+		-moz-animation-duration:11.5s;
+		-o-animation-duration:11.5s;
+	}
+
+	.tiempo3 path{
+		animation-duration:8s;
+		-webkit-animation-duration:8s;
+		-moz-animation-duration:8s;
+		-o-animation-duration:8s;
+	}
+
+	.tiempo4 path{
+		animation-duration:6.3s;
+		-webkit-animation-duration:6.3s;
+		-moz-animation-duration:6.3s;
+		-o-animation-duration:6.3s;
+	}
+
+	.tiempo5 path{
+		animation-duration:10.2s;
+		-webkit-animation-duration:10.2s;
+		-moz-animation-duration:10.2s;
+		-o-animation-duration:10.2s;
+	}
+
+	.tiempo6 path{
+		animation-duration:8.5s;
+		-webkit-animation-duration:8.5s;
+		-moz-animation-duration:8.5s;
+		-o-animation-duration:8.5s;
+	}
+
+	.tiempo7 path{
+		animation-duration:6s;
+		-webkit-animation-duration:6s;
+		-moz-animation-duration:6s;
+		-o-animation-duration:6s;
+	}
+
+	.tiempo8 path{
+		animation-duration:10.5s;
+		-webkit-animation-duration:10.5s;
+		-moz-animation-duration:10.5s;
+		-o-animation-duration:10.5s;
+	}
+
+	.tiempo9 path{
+		animation-duration:7.3s;
+		-webkit-animation-duration:7.3s;
+		-moz-animation-duration:7.3s;
+		-o-animation-duration:7.3s;
+	}
+
+	.tiempo10 path{
+		animation-duration:6.8s;
+		-webkit-animation-duration:6.8s;
+		-moz-animation-duration:6.8s;
+		-o-animation-duration:6.8s;
+	}
+
+	.tiempo11 path{
+		animation-duration:10.8s;
+		-webkit-animation-duration:10.8s;
+		-moz-animation-duration:10.8s;
+		-o-animation-duration:10.8s;
+	}
+
+	.tiempo12 path{
+		animation-duration:9.8s;
+		-webkit-animation-duration:9.8s;
+		-moz-animation-duration:9.8s;
+		-o-animation-duration:9.8s;
+	}
+
+	.tiempo13 path{
+		animation-duration:5.3s;
+		-webkit-animation-duration:5.3s;
+		-moz-animation-duration:5.3s;
+		-o-animation-duration:5.3s;
+	}
+
+	.tiempo14 path{
+		animation-duration:11.3s;
+		-webkit-animation-duration:11.3s;
+		-moz-animation-duration:11.3s;
+		-o-animation-duration:11.3s;
+	}
+
+	.tiempo15 path{
+		animation-duration:5.3s;
+		-webkit-animation-duration:5.3s;
+		-moz-animation-duration:5.3s;
+		-o-animation-duration:5.3s;
+	}
+
+	.tiempo16 path{
+		animation-duration:11.9s;
+		-webkit-animation-duration:11.9s;
+		-moz-animation-duration:11.9s;
+		-o-animation-duration:11.9s;
+	}
+
+	.tiempo17 path{
+		animation-duration:10.2s;
+		-webkit-animation-duration:10.2s;
+		-moz-animation-duration:10.2s;
+		-o-animation-duration:10.2s;
+	}
+
+	.tiempo18 path{
+		animation-duration:8.8s;
+		-webkit-animation-duration:8.8s;
+		-moz-animation-duration:8.8s;
+		-o-animation-duration:8.8s;
+	}
+
+	.tiempo19 path{
+		animation-duration:7.7s;
+		-webkit-animation-duration:7.7s;
+		-moz-animation-duration:7.7s;
+		-o-animation-duration:7.7s;
+	}
+
+	.tiempo20 path{
+		animation-duration:6.5s;
+		-webkit-animation-duration:6.5s;
+		-moz-animation-duration:6.5s;
+		-o-animation-duration:6.5s;
+	}
+
+	.tiempo21 path{
+		animation-duration:9.3s;
+		-webkit-animation-duration:9.3s;
+		-moz-animation-duration:9.3s;
+		-o-animation-duration:9.3s;
+	}
+
+	.tiempo22 path{
+		animation-duration:8.1s;
+		-webkit-animation-duration:8.1s;
+		-moz-animation-duration:8.1s;
+		-o-animation-duration:8.1s;
+	}
+
+	.tiempo23 path{
+		animation-duration:8.1s;
+		-webkit-animation-duration:8.1s;
+		-moz-animation-duration:8.1s;
+		-o-animation-duration:8.1s;
+	}
+
+	.tiempo24 path{
+		animation-duration:8.1s;
+		-webkit-animation-duration:8.1s;
+		-moz-animation-duration:8.1s;
+		-o-animation-duration:8.1s;
+	}
+
+	.tiempo25 path{
+		animation-duration:8.1s;
+		-webkit-animation-duration:8.1s;
+		-moz-animation-duration:8.1s;
+		-o-animation-duration:8.1s;
+	}
+
+	.tiempo26 path{
+		animation-duration:8.1s;
+		-webkit-animation-duration:8.1s;
+		-moz-animation-duration:8.1s;
+		-o-animation-duration:8.1s;
+	}
+
+	.tiempo27 path{
+		animation-duration:8.1s;
+		-webkit-animation-duration:8.1s;
+		-moz-animation-duration:8.1s;
+		-o-animation-duration:8.1s;
+	}
+
+	.tiempo28 path{
+		animation-duration:8.1s;
+		-webkit-animation-duration:8.1s;
+		-moz-animation-duration:8.1s;
+		-o-animation-duration:8.1s;
+	}
+
+	.tiempo29 path{
+		animation-duration:8.1s;
+		-webkit-animation-duration:8.1s;
+		-moz-animation-duration:8.1s;
+		-o-animation-duration:8.1s;
+	}
+
+	.tiempo30 path{
+		animation-duration:8.1s;
+		-webkit-animation-duration:8.1s;
+		-moz-animation-duration:8.1s;
+		-o-animation-duration:8.1s;
+	}
+
+	.tiempo31 path{
+		animation-duration:6.4s;
+		-webkit-animation-duration:6.4s;
+		-moz-animation-duration:6.4s;
+		-o-animation-duration:6.4s;
+	}
+
+	.tiempo32 path{
+		animation-duration:3.5s;
+		-webkit-animation-duration:3.5s;
+		-moz-animation-duration:3.5s;
+		-o-animation-duration:3.5s;
+	}
+
+	.tiempo33 path{
+		animation-duration:2.8s;
+		-webkit-animation-duration:2.8s;
+		-moz-animation-duration:2.8s;
+		-o-animation-duration:2.8s;
+	}
+
+	.tiempo34 path{
+		animation-duration:3.3s;
+		-webkit-animation-duration:3.3s;
+		-moz-animation-duration:3.3s;
+		-o-animation-duration:3.3s;
+	}
+
+	.tiempo35 path{
+		animation-duration:7.2s;
+		-webkit-animation-duration:7.2s;
+		-moz-animation-duration:7.2s;
+		-o-animation-duration:7.2s;
+	}
+
+	.tiempo36 path{
+		animation-duration:2.5s;
+		-webkit-animation-duration:2.5s;
+		-moz-animation-duration:2.5s;
+		-o-animation-duration:2.5s;
+	}
+
+	.tiempo37 path{
+		animation-duration:1.6s;
+		-webkit-animation-duration:1.6s;
+		-moz-animation-duration:1.6s;
+		-o-animation-duration:1.6s;
+	}
+
+	.tiempo38 path{
+		animation-duration:3.5s;
+		-webkit-animation-duration:3.5s;
+		-moz-animation-duration:3.5s;
+		-o-animation-duration:3.5s;
+	}
+
+	.tiempo39 path{
+		animation-duration:5.3s;
+		-webkit-animation-duration:5.3s;
+		-moz-animation-duration:5.3s;
+		-o-animation-duration:5.3s;
+	}
+
+	.tiempo40 path{
+		animation-duration:6.1s;
+		-webkit-animation-duration:6.1s;
+		-moz-animation-duration:6.1s;
+		-o-animation-duration:6.1s;
+	}
+
+	.tiempo41 path{
+		animation-duration:9.3s;
+		-webkit-animation-duration:9.3s;
+		-moz-animation-duration:9.3s;
+		-o-animation-duration:9.3s;
+	}
+
+	.tiempo42 path{
+		animation-duration:6.8s;
+		-webkit-animation-duration:6.8s;
+		-moz-animation-duration:6.8s;
+		-o-animation-duration:6.8s;
+	}
+
+	.anillos path{
+		stroke-dasharray: 20;
+
+	    animation-timing-function: cubic-bezier(.5,-0.84,.48,1.65);
+	    animation-iteration-count: infinite;
+
+	 
+	    -webkit-animation-timing-function: cubic-bezier(.5,-0.84,.48,1.65);
+	    -webkit-animation-iteration-count: infinite;
+
+	    -moz-animation-timing-function: cubic-bezier(.5,-0.84,.48,1.65);
+	    -moz-animation-iteration-count: infinite;
+
+	 
+	    -o-animation-timing-function: cubic-bezier(.5,-0.84,.48,1.65);
+	    -o-animation-iteration-count: infinite;
+	}
+
+	.anillos:nth-child(odd) path{
+		stroke-dashoffset: 0;
+		animation-name: dashed1;
+		-webkit-animation-name: dashed1;
+		-moz-animation-name: dashed1;
+		-o-animation-name: dashed1;
+	}
+
+	.anillos:nth-child(even) path{
+        stroke-dashoffset: 2000;
+		animation-name: dashed2;
+		-webkit-animation-name: dashed2;
+		-moz-animation-name: dashed2;
+		-o-animation-name: dashed2;  
+	}
+
+	<!-- ANILLO 1 -->
+	.anillos:nth-child(4n-1) path:first-child{
+		stroke:#19bbbf;
+	
+		 
+	}
+	.anillos:nth-child(4n-1) path:nth-child(2){
+		stroke:#c3162e;
+	
+	}
+
+	<!-- ANILLO 2 -->
+	.anillos:nth-child(4n+0) path:first-child{
+		stroke:#9516d8;
+		
+	}
+	.anillos:nth-child(4n+0) path:nth-child(2){
+		stroke:#e27227;
+		
+	}
+
+	<!-- ANILLO 3 -->
+	.anillos:nth-child(4n+1) path:first-child{
+		stroke:#c3162e;
+		
+	}
+	.anillos:nth-child(4n+1) path:nth-child(2){
+		stroke:#19bbbf;
+		
+	}
+
+	<!-- ANILLO 4 -->
+	.anillos:nth-child(4n+2) path:first-child{
+		stroke:#e27227;
+		
+	}
+	.anillos:nth-child(4n+2) path:nth-child(2){
+		stroke:#9516d8;
+		
+	}
+
+	@-webkit-keyframes dashed1{
+		from{
+			stroke-dashoffset: 0;
+		}
+
+		to{
+			stroke-dashoffset: 620;
+		}
+	}
+
+	@-webkit-keyframes dashed2{
+		from{
+			stroke-dashoffset: 600;
+		}
+
+		to{
+			stroke-dashoffset: 0;
+		}
+	}
+
+
+</style>
+
+
+<g class="anillos tiempo1">
+	<path class="st0" d="M454.644,410.043c-1.127-0.894-0.881-4.239,0.629-7.791c1.409-3.315,3.453-5.713,4.878-5.862
+		c0.204-0.021,0.395,0.003,0.569,0.078"/>
+	<path class="st1" d="M460.461,396.312c1.398,0.594,1.225,4.148-0.385,7.937c-1.611,3.789-4.05,6.379-5.448,5.784
+		c-0.087-0.037-0.169-0.086-0.244-0.145"/>
+</g>
+<g class="anillos tiempo2">
+	<path class="st0" d="M451.539,410.135c-1.362-0.543-2.252-4.559-2.02-9.378c0.217-4.498,1.34-8.205,2.633-9.013
+		c0.185-0.115,0.373-0.172,0.563-0.162"/>
+	<path class="st1" d="M452.419,391.515c1.517,0.073,2.546,4.3,2.298,9.44s-1.679,9.248-3.196,9.175
+		c-0.095-0.005-0.188-0.025-0.279-0.062"/>
+</g>
+<g class="anillos tiempo3">
+	<path class="st0" d="M444.687,410.782c-1.421-0.362-2.824-4.229-3.219-9.037c-0.368-4.488,0.264-8.309,1.442-9.278
+		c0.168-0.138,0.348-0.218,0.537-0.234"/>
+	<path class="st1" d="M443.145,392.206c1.514-0.124,3.082,3.933,3.503,9.062c0.421,5.129-0.465,9.388-1.979,9.512
+		c-0.095,0.008-0.189-0.001-0.284-0.025"/>
+</g>
+<g class="anillos tiempo4">
+	<path class="st0" d="M437.252,412.502c-1.421-0.362-2.824-4.229-3.219-9.037c-0.368-4.488,0.264-8.309,1.442-9.278
+		c0.168-0.138,0.348-0.218,0.537-0.234"/>
+	<path class="st1" d="M435.709,393.926c1.514-0.124,3.082,3.933,3.503,9.062s-0.465,9.388-1.979,9.512
+		c-0.095,0.008-0.189-0.001-0.284-0.025"/>
+</g>
+<g class="anillos tiempo5">
+	<path class="st0" d="M430.099,414.533c-1.421-0.362-2.824-4.229-3.219-9.037c-0.368-4.488,0.264-8.309,1.442-9.278
+		c0.168-0.138,0.348-0.218,0.537-0.234"/>
+	<path class="st1" d="M428.556,395.956c1.514-0.124,3.082,3.933,3.503,9.062s-0.465,9.388-1.979,9.512
+		c-0.095,0.008-0.189-0.001-0.284-0.025"/>
+</g>
+<g class="anillos tiempo6">
+	<path class="st0" d="M424.329,418.085c-1.421-0.362-2.824-4.229-3.219-9.037c-0.368-4.488,0.264-8.309,1.442-9.278
+		c0.168-0.138,0.348-0.218,0.537-0.234"/>
+	<path class="st1" d="M422.787,399.508c1.514-0.124,3.082,3.933,3.503,9.062c0.421,5.129-0.465,9.388-1.979,9.512
+		c-0.095,0.008-0.189-0.001-0.284-0.025"/>
+</g>
+<g class="anillos tiempo7">
+	<path class="st0" d="M417.138,419.333c-1.421-0.362-2.824-4.229-3.219-9.037c-0.368-4.488,0.264-8.309,1.442-9.278
+		c0.168-0.138,0.348-0.218,0.537-0.234"/>
+	<path class="st1" d="M415.595,400.756c1.514-0.124,3.082,3.933,3.503,9.062s-0.465,9.388-1.979,9.512
+		c-0.095,0.008-0.189-0.001-0.284-0.025"/>
+</g>
+<g class="anillos tiempo8">
+	<path class="st0" d="M410.794,421.47c-1.421-0.362-2.824-4.229-3.219-9.037c-0.368-4.488,0.264-8.309,1.442-9.278
+		c0.168-0.138,0.348-0.218,0.537-0.234"/>
+	<path class="st1" d="M409.252,402.894c1.514-0.124,3.082,3.933,3.503,9.062c0.421,5.129-0.465,9.388-1.979,9.512
+		c-0.095,0.008-0.189-0.001-0.284-0.025"/>
+</g>
+<g class="anillos tiempo9">
+	<path class="st0" d="M404.078,422.915c-1.421-0.362-2.824-4.229-3.219-9.037c-0.368-4.488,0.264-8.309,1.442-9.278
+		c0.168-0.138,0.348-0.218,0.537-0.234"/>
+	<path class="st1" d="M402.536,404.338c1.514-0.124,3.082,3.933,3.503,9.062s-0.465,9.388-1.979,9.512
+		c-0.095,0.008-0.189-0.001-0.284-0.025"/>
+</g>
+<g class="anillos tiempo10">
+	<path class="st0" d="M397.463,424.657c-1.421-0.362-2.824-4.229-3.219-9.037c-0.368-4.488,0.264-8.309,1.442-9.278
+		c0.168-0.138,0.348-0.218,0.537-0.234"/>
+	<path class="st1" d="M395.921,406.08c1.514-0.124,3.082,3.933,3.503,9.062c0.421,5.129-0.465,9.388-1.979,9.512
+		c-0.095,0.008-0.189-0.001-0.284-0.025"/>
+</g>
+<g class="anillos tiempo11">
+	<path class="st0" d="M390.599,426.153c-1.123-0.351-2.272-3.939-2.637-8.387c-0.341-4.151,0.114-7.675,1.031-8.557
+		c0.131-0.126,0.271-0.198,0.42-0.21"/>
+	<path class="st1" d="M389.174,408.97c1.191-0.098,2.471,3.669,2.861,8.413c0.389,4.744-0.26,8.669-1.451,8.767
+		c-0.074,0.006-0.149-0.003-0.224-0.026"/>
+</g>
+<g class="anillos tiempo12">
+	<path class="st0" d="M476.207,458.007c-0.575-1.001,1.006-4.414,3.73-7.947c2.542-3.297,5.237-5.605,6.491-5.653
+		c0.179-0.007,0.329,0.033,0.444,0.122"/>
+	<path class="st1" d="M486.719,444.349c0.925,0.713-0.68,4.346-3.585,8.114s-6.01,6.245-6.935,5.531
+		c-0.058-0.045-0.106-0.101-0.144-0.167"/>
+</g>
+<g class="anillos tiempo13">
+	<path class="st0" d="M468.719,455.916c-0.627-0.955,0.822-5.127,3.422-9.725c2.427-4.291,5.053-7.532,6.32-7.908
+		c0.181-0.054,0.334-0.049,0.455,0.019"/>
+	<path class="st1" d="M478.753,438.145c0.968,0.548-0.495,4.967-3.268,9.872c-2.773,4.904-5.807,8.436-6.775,7.889
+		c-0.061-0.034-0.112-0.084-0.153-0.147"/>
+</g>
+<g class="anillos tiempo14">
+	<path class="st0" d="M458.488,455.119c-0.773-1.164,0.971-6.223,4.12-11.792c2.939-5.198,6.129-9.117,7.676-9.566
+		c0.221-0.064,0.409-0.057,0.557,0.027"/>
+	<path class="st1" d="M470.641,433.595c1.188,0.672-0.573,6.031-3.932,11.971c-3.359,5.94-7.045,10.211-8.233,9.539
+		c-0.074-0.042-0.137-0.102-0.188-0.18"/>
+</g>
+<g class="anillos tiempo15">
+	<path class="st0" d="M449.144,451.094c-0.773-1.164,0.971-6.223,4.12-11.792c2.939-5.198,6.129-9.117,7.676-9.566
+		c0.221-0.064,0.408-0.057,0.557,0.027"/>
+	<path class="st1" d="M461.297,429.57c1.188,0.672-0.573,6.031-3.932,11.971c-3.359,5.94-7.045,10.211-8.233,9.539
+		c-0.074-0.042-0.137-0.102-0.188-0.18"/>
+</g>
+<g class="anillos tiempo16">
+	<path class="st0" d="M439.706,449.717c-0.773-1.164,0.971-6.223,4.12-11.792c2.939-5.198,6.129-9.117,7.676-9.566
+		c0.221-0.064,0.408-0.057,0.557,0.027"/>
+	<path class="st1" d="M451.859,428.193c1.188,0.672-0.573,6.031-3.932,11.971c-3.359,5.94-7.045,10.211-8.233,9.539
+		c-0.074-0.042-0.137-0.102-0.188-0.18"/>
+</g>
+<g class="anillos tiempo17">
+	<path class="st0" d="M430.652,449.751c-0.773-1.164,0.971-6.223,4.12-11.792c2.939-5.198,6.129-9.117,7.676-9.566
+		c0.221-0.064,0.408-0.057,0.557,0.027"/>
+	<path class="st1" d="M442.805,428.227c1.188,0.672-0.573,6.031-3.932,11.971c-3.359,5.94-7.045,10.211-8.233,9.539
+		c-0.074-0.042-0.137-0.102-0.188-0.18"/>
+</g>
+<g class="anillos tiempo18">
+	<path class="st0" d="M424.761,449.501c-0.918-1.053,0.149-6.296,2.543-12.229c2.234-5.537,4.883-9.841,6.358-10.488
+		c0.211-0.092,0.397-0.11,0.556-0.047"/>
+	<path class="st1" d="M433.994,426.573c1.265,0.51,0.221,6.055-2.332,12.383c-2.553,6.328-5.649,11.045-6.914,10.534
+		c-0.079-0.032-0.149-0.083-0.21-0.154"/>
+</g>
+<g class="anillos tiempo19">
+	<path class="st0" d="M416.855,449.685c-0.931-1.068,0.151-6.385,2.578-12.401c2.265-5.615,4.952-9.979,6.448-10.635
+		c0.214-0.094,0.403-0.112,0.563-0.047"/>
+	<path class="st1" d="M426.218,426.435c1.283,0.518,0.224,6.139-2.365,12.557c-2.589,6.417-5.728,11.2-7.011,10.682
+		c-0.08-0.032-0.151-0.085-0.213-0.156"/>
+</g>
+<g class="anillos tiempo20">
+	<path class="st0" d="M408.943,449.662c-0.931-1.068,0.151-6.385,2.578-12.401c2.265-5.615,4.952-9.979,6.448-10.635
+		c0.214-0.094,0.403-0.112,0.563-0.047"/>
+	<path class="st1" d="M418.305,426.412c1.283,0.518,0.224,6.139-2.365,12.557c-2.589,6.417-5.728,11.2-7.011,10.682
+		c-0.08-0.032-0.151-0.085-0.213-0.156"/>
+</g>
+<g class="anillos tiempo21">
+	<path class="st0" d="M402.006,448.502c-0.931-1.068,0.151-6.385,2.578-12.401c2.265-5.615,4.952-9.979,6.448-10.635
+		c0.214-0.094,0.403-0.112,0.563-0.047"/>
+	<path class="st1" d="M411.368,425.252c1.283,0.518,0.224,6.139-2.365,12.557s-5.728,11.2-7.011,10.682
+		c-0.08-0.032-0.151-0.085-0.213-0.156"/>
+</g>
+<g class="anillos tiempo22">
+	<path class="st0" d="M395.144,449.795c-0.995-1.141,0.161-6.824,2.755-13.253c2.421-6.001,5.292-10.665,6.891-11.366
+		c0.228-0.1,0.431-0.12,0.602-0.05"/>
+	<path class="st1" d="M405.15,424.946c1.371,0.553,0.24,6.562-2.527,13.42c-2.767,6.858-6.122,11.97-7.493,11.417
+		c-0.086-0.035-0.162-0.09-0.228-0.167"/>
+</g>
+<g class="anillos tiempo23">
+	<path class="st0" d="M388.586,449.795c-0.995-1.141,0.161-6.824,2.755-13.253c2.421-6.001,5.292-10.665,6.891-11.366
+		c0.228-0.1,0.431-0.12,0.602-0.05"/>
+	<path class="st1" d="M398.591,424.946c1.371,0.553,0.24,6.562-2.527,13.42c-2.767,6.858-6.122,11.97-7.493,11.417
+		c-0.086-0.035-0.162-0.09-0.228-0.167"/>
+</g>
+<g class="anillos tiempo24">
+	<path class="st0" d="M382.968,449.242c-0.93-1.066,0.151-6.376,2.575-12.384c2.262-5.608,4.945-9.965,6.439-10.621
+		c0.213-0.094,0.402-0.112,0.563-0.047"/>
+	<path class="st1" d="M392.318,426.022c1.281,0.517,0.224,6.131-2.362,12.54c-2.586,6.409-5.72,11.185-7.002,10.668
+		c-0.08-0.032-0.151-0.085-0.213-0.156"/>
+</g>
+<g class="anillos tiempo25">
+	<path class="st0" d="M377.877,448.025c-0.881-1.01,0.143-6.04,2.439-11.732c2.143-5.312,4.685-9.44,6.1-10.061
+		c0.202-0.089,0.381-0.106,0.533-0.045"/>
+	<path class="st1" d="M386.734,426.029c1.214,0.49,0.212,5.808-2.237,11.879s-5.419,10.596-6.633,10.106
+		c-0.076-0.031-0.143-0.08-0.202-0.147"/>
+</g>
+<g class="anillos tiempo26">
+	<path class="st0" d="M374.822,442.63c-0.534-0.612,0.087-3.662,1.479-7.112c1.299-3.22,2.84-5.723,3.698-6.099
+		c0.123-0.054,0.231-0.064,0.323-0.027"/>
+	<path class="st1" d="M380.191,429.295c0.736,0.297,0.129,3.521-1.356,7.201c-1.485,3.68-3.285,6.423-4.021,6.126
+		c-0.046-0.019-0.087-0.049-0.122-0.089"/>
+</g>
+<g class="anillos tiempo27">
+	<path class="st0" d="M471.425,505.723c-0.647-1.36,1.986-6.49,6.196-11.95c3.929-5.096,7.93-8.791,9.649-9.033
+		c0.246-0.035,0.445,0.001,0.59,0.113"/>
+	<path class="st1" d="M487.675,484.616c1.164,0.898-1.532,6.347-6.022,12.171c-4.49,5.824-9.074,9.818-10.239,8.92
+		c-0.073-0.056-0.13-0.13-0.174-0.221"/>
+</g>
+<g class="anillos tiempo28">
+	<path class="st0" d="M465.113,503.985c-0.773-1.164,0.971-6.223,4.12-11.792c2.939-5.198,6.129-9.117,7.676-9.566
+		c0.221-0.064,0.408-0.057,0.557,0.027"/>
+	<path class="st1" d="M477.266,482.461c1.188,0.672-0.573,6.031-3.932,11.971c-3.359,5.94-7.045,10.211-8.233,9.539
+		c-0.074-0.042-0.137-0.102-0.188-0.18"/>
+</g>
+<g class="anillos tiempo29">
+	<path class="st0" d="M456.751,502.985c-0.773-1.164,0.971-6.223,4.12-11.792c2.939-5.198,6.129-9.117,7.676-9.566
+		c0.221-0.064,0.408-0.057,0.557,0.027"/>
+	<path class="st1" d="M468.904,481.461c1.188,0.672-0.573,6.031-3.932,11.971c-3.359,5.94-7.045,10.211-8.233,9.539
+		c-0.074-0.042-0.137-0.102-0.188-0.18"/>
+</g>
+<g class="anillos tiempo30">
+	<path class="st0" d="M448.408,500.96c-0.773-1.164,0.971-6.223,4.12-11.792c2.939-5.198,6.129-9.117,7.676-9.566
+		c0.221-0.064,0.408-0.057,0.557,0.027"/>
+	<path class="st1" d="M460.56,479.436c1.188,0.672-0.573,6.031-3.932,11.971c-3.359,5.94-7.045,10.211-8.233,9.539
+		c-0.074-0.042-0.137-0.102-0.188-0.18"/>
+</g>
+<g class="anillos tiempo31">
+	<path class="st0" d="M438.97,499.583c-0.773-1.164,0.971-6.223,4.12-11.792c2.939-5.198,6.129-9.117,7.676-9.566
+		c0.221-0.064,0.408-0.057,0.557,0.027"/>
+	<path class="st1" d="M451.122,478.059c1.188,0.672-0.573,6.031-3.932,11.971c-3.359,5.94-7.045,10.211-8.233,9.539
+		c-0.074-0.042-0.137-0.102-0.188-0.18"/>
+</g>
+<g class="anillos tiempo32">
+	<path class="st0" d="M429.578,499.583c-0.773-1.164,0.971-6.223,4.12-11.792c2.939-5.198,6.129-9.117,7.676-9.566
+		c0.221-0.064,0.409-0.057,0.557,0.027"/>
+	<path class="st1" d="M441.73,478.059c1.188,0.672-0.573,6.031-3.932,11.971c-3.359,5.94-7.045,10.211-8.233,9.539
+		c-0.074-0.042-0.137-0.102-0.188-0.18"/>
+</g>
+<g class="anillos tiempo33">
+	<path class="st0" d="M422.922,500.177c-0.773-1.164,0.971-6.223,4.12-11.792c2.939-5.198,6.129-9.117,7.676-9.566
+		c0.221-0.064,0.409-0.057,0.557,0.027"/>
+	<path class="st1" d="M435.074,478.653c1.188,0.672-0.573,6.031-3.932,11.971c-3.359,5.94-7.045,10.211-8.233,9.539
+		c-0.074-0.042-0.137-0.102-0.188-0.18"/>
+</g>
+<g class="anillos tiempo34">
+	<path class="st0" d="M417.374,497.466c-0.773-1.164,0.971-6.223,4.12-11.792c2.939-5.198,6.129-9.117,7.676-9.566
+		c0.221-0.064,0.409-0.057,0.557,0.027"/>
+	<path class="st1" d="M429.527,475.942c1.188,0.672-0.573,6.031-3.932,11.971c-3.359,5.94-7.045,10.211-8.233,9.539
+		c-0.074-0.042-0.137-0.102-0.188-0.18"/>
+</g>
+<g class="anillos tiempo35">
+	<path class="st0" d="M411.347,495.46c-0.773-1.164,0.971-6.223,4.12-11.792c2.939-5.198,6.129-9.117,7.676-9.566
+		c0.221-0.064,0.408-0.057,0.557,0.027"/>
+	<path class="st1" d="M423.5,473.936c1.188,0.672-0.573,6.031-3.932,11.971c-3.359,5.94-7.045,10.211-8.233,9.539
+		c-0.074-0.042-0.137-0.102-0.188-0.18"/>
+</g>
+<g class="anillos tiempo36">
+	<path class="st0" d="M404.631,494.808c-0.773-1.164,0.971-6.223,4.12-11.792c2.939-5.198,6.129-9.117,7.676-9.566
+		c0.221-0.064,0.408-0.057,0.557,0.027"/>
+	<path class="st1" d="M416.784,473.284c1.188,0.672-0.573,6.031-3.932,11.971s-7.045,10.211-8.233,9.539
+		c-0.074-0.042-0.137-0.102-0.188-0.18"/>
+</g>
+<g class="anillos tiempo37">
+	<path class="st0" d="M395.588,495.35c-0.773-1.164,0.971-6.223,4.12-11.792c2.939-5.198,6.129-9.117,7.676-9.566
+		c0.221-0.064,0.408-0.057,0.557,0.027"/>
+	<path class="st1" d="M407.741,473.826c1.188,0.672-0.573,6.031-3.932,11.971c-3.359,5.94-7.045,10.211-8.233,9.539
+		c-0.074-0.042-0.137-0.102-0.188-0.18"/>
+</g>
+<g class="anillos tiempo38">
+	<path class="st0" d="M391.269,491.431c-0.773-1.164,0.971-6.223,4.12-11.792c2.939-5.198,6.129-9.117,7.676-9.566
+		c0.221-0.064,0.408-0.057,0.557,0.027"/>
+	<path class="st1" d="M403.422,469.907c1.188,0.672-0.573,6.031-3.932,11.971c-3.359,5.94-7.045,10.211-8.233,9.539
+		c-0.074-0.042-0.137-0.102-0.188-0.18"/>
+</g>
+<g class="anillos tiempo39">
+	<path class="st0" d="M386.046,487.967c-0.719-1.083,0.904-5.793,3.835-10.976c2.736-4.838,5.705-8.487,7.145-8.905
+		c0.206-0.06,0.38-0.053,0.518,0.025"/>
+	<path class="st1" d="M397.359,467.931c1.105,0.625-0.533,5.614-3.66,11.144c-3.127,5.529-6.558,9.505-7.663,8.88
+		c-0.069-0.039-0.127-0.095-0.175-0.167"/>
+</g>
+<g class="anillos tiempo40">
+	<path class="st0" d="M381.883,483.48c-0.601-0.906,0.756-4.842,3.206-9.175c2.287-4.044,4.769-7.094,5.972-7.443
+		c0.172-0.05,0.318-0.045,0.433,0.021"/>
+	<path class="st1" d="M391.339,466.733c0.924,0.523-0.446,4.693-3.059,9.315s-5.482,7.945-6.406,7.423
+		c-0.058-0.033-0.107-0.08-0.147-0.14"/>
+</g>
+<g class="anillos tiempo41">
+	<path class="st0" d="M378.853,477.81c-0.453-0.682,0.569-3.646,2.414-6.909c1.722-3.045,3.591-5.342,4.497-5.605
+		c0.129-0.038,0.239-0.034,0.326,0.016"/>
+	<path class="st1" d="M385.973,465.2c0.696,0.393-0.336,3.534-2.304,7.014s-4.128,5.983-4.823,5.589
+		c-0.043-0.025-0.08-0.06-0.11-0.105"/>
+</g>
+<g class="anillos tiempo42">
+	<path class="st0" d="M375.412,472.905c-0.302-0.455,0.38-2.434,1.612-4.612c1.15-2.033,2.397-3.566,3.002-3.742
+		c0.086-0.025,0.16-0.022,0.218,0.01"/>
+	<path class="st1" d="M380.166,464.486c0.465,0.263-0.224,2.359-1.538,4.683s-2.756,3.994-3.22,3.731
+		c-0.029-0.016-0.054-0.04-0.074-0.07"/>
+</g>
+</svg>

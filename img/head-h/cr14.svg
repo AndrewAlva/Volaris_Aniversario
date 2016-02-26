@@ -1,0 +1,42 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100%" height="100%" viewBox="0 0 960 600" style="enable-background:new 0 0 960 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#9516d8;stroke-linecap:round;stroke-miterlimit:10;
+
+	stroke-dasharray: 50;
+    stroke-dashoffset: 0;
+    -webkit-animation: dash 8.8s cubic-bezier(.5,-0.84,.48,1.65) infinite;
+    -o-animation: dash 8.8s cubic-bezier(.5,-0.84,.48,1.65) infinite;
+    -moz-animation: dash 8.8s cubic-bezier(.5,-0.84,.48,1.65) infinite;
+    animation: dash 8.8s cubic-bezier(.5,-0.84,.48,1.65) infinite;
+
+    }
+
+	.st1{fill:none;stroke:#e27227;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;
+
+	stroke-dasharray: 50;
+    stroke-dashoffset: 0;
+    -webkit-animation: dash 8.8s cubic-bezier(.5,-0.84,.48,1.65) infinite;
+    -o-animation: dash 8.8s cubic-bezier(.5,-0.84,.48,1.65) infinite;
+    -moz-animation: dash 8.8s cubic-bezier(.5,-0.84,.48,1.65) infinite;
+    animation: dash 8.8s cubic-bezier(.5,-0.84,.48,1.65) infinite;
+
+    }
+
+    @-webkit-keyframes dash{
+		from{
+			stroke-dashoffset: 0;
+		}
+
+		to{
+			stroke-dashoffset: 1200;
+		}
+	}
+</style>
+<g id="BG">
+</g>
+<path class="st0" d="M426.744,377.144c2.252-4.434,20.983-7.894,43.756-7.894c21.255,0,38.988,3.014,43.09,7.021
+	c0.586,0.572,0.894,1.165,0.894,1.772"/>
+<path class="st1" d="M514.483,377.653c0,4.857-19.692,8.794-43.983,8.794c-24.291,0-43.983-3.937-43.983-8.794
+	c0-0.304,0.077-0.603,0.227-0.899"/>
+</svg>

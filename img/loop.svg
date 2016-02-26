@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="960px" height="661.891px" viewBox="0 -61.891 960 661.891" style="enable-background:new 0 -61.891 960 661.891;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:url(#SVGID_1_);stroke-width:6;stroke-linecap:round;stroke-miterlimit:10; mix-blend-mode: multiply;}
+	.st1{fill:none;stroke:url(#SVGID_2_);stroke-width:6;stroke-linecap:round;stroke-miterlimit:10; mix-blend-mode: multiply;}
+	.st2{fill:none;stroke:#4B4C4C;stroke-width:6;stroke-linecap:round;stroke-miterlimit:10; mix-blend-mode: multiply;}
+	.st3{fill:none;stroke:url(#SVGID_3_);stroke-width:6;stroke-linecap:round;stroke-miterlimit:10; mix-blend-mode: multiply;}
+</style>
+<g id="BG">
+</g>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="228.8466" y1="408.4298" x2="307.5329" y2="544.7185">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<path class="st0" d="M414.709,365.546C225.297,387.57,61.573,488.519,107.368,562.78c43.944,71.26,225.181-1.759,326.778-138.851"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="649.6446" y1="356.4972" x2="649.6446" y2="526.759">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<path class="st1" d="M442.929,381.1c151.342,104.443,402.765,190.365,437.824,112.625c39.371-87.303-232.591-155.325-466.043-128.18
+	"/>
+<path class="st2" d="M434.145,423.929"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="320.7516" y1="193.0244" x2="520.794" y2="193.0244">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#000000"/>
+</linearGradient>
+<path class="st3" d="M434.145,423.929C514.5,315.5,565.5-51.5,451.092-37.489c-140.13,17.16-171.634,239.611-59.2,372.301
+	c14.574,17.199,31.561,32.848,51.037,46.289"/>
+</svg>

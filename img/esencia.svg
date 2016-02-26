@@ -1,0 +1,176 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100%" height="100%" viewBox="0 50 960 600" style="enable-background:new 0 50 960 600;" xml:space="preserve">
+
+
+  <defs>
+      <filter id="blurFilter" y="-5" height="40">
+          <feGaussianBlur in="SourceGraphic" stdDeviation="10" y="-"/>
+      </filter>
+  </defs>
+
+
+<style type="text/css">
+	.st0{fill:rgb(14,93,127);
+		animation: colorex5 5s ease-in-out infinite;
+		-webkit-animation: colorex5 5s ease-in-out infinite;
+		-moz-animation: colorex5 5s ease-in-out infinite;
+		-o-animation: colorex5 5s ease-in-out infinite;
+
+
+	}
+	.st1{fill:rgb(27,136,142);
+		animation: colorex4 5s ease-in-out infinite;
+		
+	}
+	.st2{fill:rgb(25,187,191);
+		animation: colorex3 5s ease-in-out infinite;
+		
+	}
+	.st3{fill:rgb(58,214,214);
+		animation: colorex2 5s ease-in-out infinite;
+		
+		
+	}
+	.st4{fill:rgb(96,239,235);
+		animation: colorex1 5s ease-in-out infinite;
+		
+	}
+
+	@keyframes colorex5 {
+	    0%,100%   {fill:rgb(14,93,127);}
+	    20%  {fill:rgb(27,136,142);}
+	    40%  {fill:rgb(25,187,191);}
+	    60%  {fill:rgb(58,214,214);}
+	    80% {fill:rgb(96,239,235);}
+	}
+</style>
+<g id="BG">
+</g>
+<circle class="st0" cx="467.616" cy="395.604" r="87.997" style="filter: url(#blurFilter);">
+	<animate 
+             attributeName="fill"
+             dur="1440ms" 
+             repeatCount="indefinite"
+             keyTimes="0;
+                       .1472;
+                       .2857;
+                       .4285;
+                       .5714;
+                       .7142;
+                       .8571;
+                       1"
+             calcMode="spline" 
+             keySplines="0,0,1,1;
+                         .42,0,.58,1;
+                         .42,0,1,1;
+                         0,0,.58,1;
+                         .42,0,.58,1;
+                         .42,0,.58,1;
+                         .42,0,.58,1"
+             values="#60efeb;
+					 #3ad6d6;
+					 #19bbbf;
+					 #0e5d7f;
+					 #60efeb;
+					 #3ad6d6;
+					 #19bbbf;
+					 #0e5d7f;"/>
+</circle>
+
+  <svg>
+  <circle class="st2" cx="467.616" cy="383.897" r="61.903" style="filter: url(#blurFilter);">
+  	<animate 
+               attributeName="fill"
+               dur="1440ms" 
+               repeatCount="indefinite"
+               keyTimes="0;
+                         .1472;
+                         .2857;
+                         .4285;
+                         .5714;
+                         .7142;
+                         .8571;
+                         1"
+               calcMode="spline" 
+               keySplines="0,0,1,1;
+                           .42,0,.58,1;
+                           .42,0,1,1;
+                           0,0,.58,1;
+                           .42,0,.58,1;
+                           .42,0,.58,1;
+                           .42,0,.58,1"
+               values="#3ad6d6;
+  					 #19bbbf;
+  					 #0e5d7f;
+  					 #60efeb;
+  					 #3ad6d6;
+  					 #19bbbf;
+  					 #0e5d7f;
+  					 #60efeb;"/>
+             
+  </circle>
+  <filter id="blur-effect-1">
+            <feGaussianBlur stdDeviation="2" />
+          </filter>
+</svg>
+<circle class="st3" cx="467.616" cy="378.043" r="48.386" style="filter: url(#blurFilter);">
+	<animate 
+             attributeName="fill"
+             dur="1440ms" 
+             repeatCount="indefinite"
+             keyTimes="0;
+                       .1472;
+                       .2857;
+                       .4285;
+                       .5714;
+                       .7142;
+                       .8571;
+                       1"
+             calcMode="spline" 
+             keySplines="0,0,1,1;
+                         .42,0,.58,1;
+                         .42,0,1,1;
+                         0,0,.58,1;
+                         .42,0,.58,1;
+                         .42,0,.58,1;
+                         .42,0,.58,1"
+             values="#19bbbf;
+					 #0e5d7f;
+					 #60efeb;
+					 #3ad6d6;
+					 #19bbbf;
+					 #0e5d7f;
+					 #60efeb;
+					 #3ad6d6;"/>
+</circle>
+<circle class="st4" cx="467.616" cy="366.336" r="23.518" style="filter: url(#blurFilter);">
+	<animate 
+             attributeName="fill"
+             dur="1440ms" 
+             repeatCount="indefinite"
+             keyTimes="0;
+                       .1472;
+                       .2857;
+                       .4285;
+                       .5714;
+                       .7142;
+                       .8571;
+                       1"
+             calcMode="spline" 
+             keySplines="0,0,1,1;
+                         .42,0,.58,1;
+                         .42,0,1,1;
+                         0,0,.58,1;
+                         .42,0,.58,1;
+                         .42,0,.58,1;
+                         .42,0,.58,1"
+             values="#0e5d7f;
+					 #60efeb;
+					 #3ad6d6;
+					 #19bbbf;
+					 #0e5d7f;
+					 #60efeb;
+					 #3ad6d6;
+					 #19bbbf;"/>
+</circle>
+</svg>
